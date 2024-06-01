@@ -140,10 +140,6 @@ router.put("/:id", async (req, res) => {
 });
 
 
-// CODE EDIT 
-// CODE EDIT 
-// CODE EDIT 
-
 // Delete a product by ID
 router.delete("/:id", async (req, res) => {
   try {
